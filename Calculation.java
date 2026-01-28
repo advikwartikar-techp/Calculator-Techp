@@ -5,6 +5,9 @@
  * @param b the second integer value
  * @return the product of {@code a} and {@code b}
  */
+
+// TODO: add example of modulo
+
 public static int multiply(int a, int b) {
     return a * b;
 }
